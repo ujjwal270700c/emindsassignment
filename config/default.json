@@ -1,0 +1,4 @@
+{
+    "SecretKey":"secret",
+    "URI":"mongodb+srv://dbuser:dbuser@cluster0.uaxdw.mongodb.net/capstone?retryWrites=true&w=majority"
+}
